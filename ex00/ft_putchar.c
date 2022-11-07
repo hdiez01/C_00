@@ -7,5 +7,5 @@ void	ft_putchar(char c);
 
 int	mian(void)
 {
-	ft_putchar("Hola")
+	ft_putchar();
 }
