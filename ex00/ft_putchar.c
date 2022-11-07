@@ -5,5 +5,5 @@ void	ft_putchar(char c)
 
 int	mian(void)
 {
-	ft_putchar('4');
+	ft_putchar('42');
 }
