@@ -14,3 +14,9 @@ void	ft_is_negative(int	n)
 		write(1, &positive, 1);
 	}
 }
+/*
+int	main(void)
+{
+	write(1, &ft_is_negative, 1);
+}
+*/

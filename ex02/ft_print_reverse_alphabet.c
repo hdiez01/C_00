@@ -9,3 +9,9 @@ void	ft_print_reverse_alphabet(void)
 		letter--;
 	}
 }
+/*
+int	main(void)
+{
+	write(1, &ft_print_reverse_alphabet, 1);
+}
+*/

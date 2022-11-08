@@ -27,3 +27,9 @@ void ft_print_combn(int	n)
 {
 	ft_print_comb(0,n);
 }
+/*
+int	main(void)
+{
+	write(1, &ft_print_combn, 1);
+}
+*/

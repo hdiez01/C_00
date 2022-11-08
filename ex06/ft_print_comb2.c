@@ -29,3 +29,9 @@ void	ft_print_comb2(void)
 		i++;
 	}
 }
+/*
+int	main(void)
+{
+	write(1, &ft_print_comb2, 1);
+}
+*/

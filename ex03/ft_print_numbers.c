@@ -9,3 +9,9 @@ void ft_print_numbers(void)
 		number++;
 	}
 }
+/*
+int	main(void)
+{
+	write(1, &ft_print_numbers, 1);
+}
+*/
